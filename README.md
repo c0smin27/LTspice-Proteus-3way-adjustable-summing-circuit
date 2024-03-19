@@ -1,4 +1,4 @@
-# LTspice three-way adjustable summing circuit with amplifier output
+# LTspice/Proteus three-way adjustable summing circuit with amplifier output
 
 **Circuit information** <br>
 
