@@ -8,4 +8,7 @@ In the summing configuration, the AO takes several input signals and combines th
 
 📃 [Documentation](https://github.com/c0smin27/LTspice-3way-adjustable-summing-circuit/blob/main/SCIA_Documentatie_Melinte_Cosmin.pdf)<br>
 💾 [LTspice Project](https://github.com/c0smin27/LTspice-Proteus-3way-adjustable-summing-circuit/tree/main/LTspice)<br>
-💾 [Proteus Project](https://github.com/c0smin27/LTspice-Proteus-3way-adjustable-summing-circuit/tree/main/Proteus)
+💾 [Proteus Project](https://github.com/c0smin27/LTspice-Proteus-3way-adjustable-summing-circuit/tree/main/Proteus)<br>
+
+![](https://raw.githubusercontent.com/c0smin27/LTspice-Proteus-3way-adjustable-summing-circuit/main/readme1.png)
+![](https://raw.githubusercontent.com/c0smin27/LTspice-Proteus-3way-adjustable-summing-circuit/main/readme2.png)
