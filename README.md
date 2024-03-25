@@ -7,8 +7,8 @@ In the summing configuration, the AO takes several input signals and combines th
 ### I also designed the schematic in Proteus (PCB Design and Circuit Simulator Software) <br>
 
 📃 [Documentation](https://github.com/c0smin27/LTspice-3way-adjustable-summing-circuit/blob/main/SCIA_Documentatie_Melinte_Cosmin.pdf)<br>
-💾 [LTspice Project](https://github.com/c0smin27/LTspice-Proteus-3way-adjustable-summing-circuit/tree/main/LTspice)<br>
-💾 [Proteus Project](https://github.com/c0smin27/LTspice-Proteus-3way-adjustable-summing-circuit/tree/main/Proteus)<br>
+💾 [LTspice Project]()<br>
+💾 [Proteus Project]()<br>
 
 ![](https://raw.githubusercontent.com/c0smin27/LTspice-Proteus-3way-adjustable-summing-circuit/main/readme1.png)
 ![](https://raw.githubusercontent.com/c0smin27/LTspice-Proteus-3way-adjustable-summing-circuit/main/readme2.png)
