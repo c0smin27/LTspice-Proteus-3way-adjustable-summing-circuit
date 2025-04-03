@@ -1,10 +1,12 @@
-# LTspice/Proteus three-way adjustable summing circuit with amplifier output
+# LTspice / Proteus – Three-Way Adjustable Summing Circuit with Amplifier Output
 
-**Circuit information** <br>
+## Circuit Description
 
-In the summing configuration, the AO takes several input signals and combines them, producing a single output that is the amplified sum of the input signals. The bi-alternating current mirror is realized by a combination of transistors and resistors, so that the output current is directly controlled and influenced by the input current. This stage of the circuit also acts as isolation between the input and output, aiming to reduce noise levels and stabilise output impedance for better sound quality.
+In the summing configuration, the operational amplifier (Op-Amp) takes multiple input signals and combines them into a single output, which is the amplified sum of those inputs. <br>
+A bi-alternating current mirror is implemented using a combination of transistors and resistors, allowing the output current to be directly influenced and controlled by the input current. <br>
+This stage of the circuit also provides isolation between the input and output, helping to reduce noise levels and stabilize output impedance, ultimately contributing to improved signal quality.
 
-### I also designed the schematic in Proteus (PCB Design and Circuit Simulator Software) <br>
+### Additionally, I designed the schematic in **Proteus** (PCB design and circuit simulation software).
 
 📃 [Documentation]()<br>
 💾 [LTspice Project]()<br>
