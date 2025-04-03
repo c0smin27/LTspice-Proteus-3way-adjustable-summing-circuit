@@ -7,7 +7,7 @@ A bi-alternating current mirror is implemented using a combination of transistor
 This stage of the circuit also provides isolation between the input and output, helping to reduce noise levels and stabilize output impedance, ultimately contributing to improved signal quality. <br>
 📁 [LTspice Project](https://github.com/c0smin27/LTspice-Proteus-3way-adjustable-summing-circuit/tree/main/LTSpice)
 
-### Additionally, I designed the schematic in **Proteus** (PCB design and circuit simulation software).
+#### Additionally, I designed the schematic in **Proteus** (PCB design and circuit simulation software).
 📁 [Proteus Project](https://github.com/c0smin27/LTspice-Proteus-3way-adjustable-summing-circuit/tree/main/Proteus)
 
 ## Disclaimer
